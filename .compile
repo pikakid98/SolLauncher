@@ -1,5 +1,5 @@
 copy "..\DarkMode\DarkMode.scriptlet" ".Cmpl8r"
 
-"%AHK%\Compiler\Ahk2Exe.exe" /in "Solarus.ahk" /out "Output\Solarus.exe" /icon "icon.ico" /compress 2 /base "%AHK%\v2\AutoHotkey64.exe"
+"%AHK%\Compiler\Ahk2Exe.exe" /in "SolLauncher.ahk" /out "Output\SolLauncher.exe" /icon "icon.ico" /compress 2 /base "%AHK%\v2\AutoHotkey64.exe"
 
 del ".Cmpl8r\DarkMode.scriptlet" /S /Q

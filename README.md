@@ -1,4 +1,4 @@
-# Solarus Launcher
+# SolLauncher
  A basic launcher for the [Solarus game engine](https://solarus-games.org/)
 
 ### <b><u>Building requirements</b></u>
